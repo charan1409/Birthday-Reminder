@@ -1,0 +1,15 @@
+.user-box{
+    height: 200px;
+    margin: 2% 5%;
+    transition: all 0.3s;
+    border: 2px solid #fff;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: 1;
+    padding: 2%  5%;
+    color: #fff;
+}
+
+.user-box:hover{
+    box-shadow: none;
+    border: none;
+}

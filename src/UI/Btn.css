@@ -1,0 +1,28 @@
+.btn {
+  border: 2px solid orange;
+  background: orange;
+  color: #fff;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 5px 30px;
+  transition: all 0.5s;
+}
+
+.btn:hover {
+  background: rgba(255, 255, 255, 0.707);
+  color: orange;
+}
+
+.cancelBtn {
+  border: 2px solid orange;
+  background: rgba(255, 166, 0, 0.355);
+  color: #fff;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 5px 30px;
+  transition: all 0.5s;
+}
